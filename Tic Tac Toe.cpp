@@ -46,6 +46,7 @@ bool RobotWin(char board[][3], char robot)
     else {return false;}
 }
 
+# Robot movement
 void robotMove(char board[][3])
 {
     int randrow, randcolumn;
