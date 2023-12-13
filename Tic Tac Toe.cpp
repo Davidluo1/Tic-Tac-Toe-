@@ -65,6 +65,7 @@ void robotMove(char board[][3])
     
 }
 
+# Tie check
 bool isBoardFull(char board[][3])
 {
     int count=0;
